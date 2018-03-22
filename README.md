@@ -28,8 +28,9 @@ Source code for the simple html/css examples live in the `src/` directory of thi
 
 * [Animate.css](https://daneden.github.io/animate.css/)
 * [Can I Use?](https://caniuse.com/#feat=css-grid)
+* [JqueryUI](https://learn.jquery.com/jquery-ui/getting-started/)
 
 ## Acknowledgements
 
-Big thanks to Mozzila, Khan Academy, and Rachel Andrew for the excellent articles, code examples, and slide deck!
+Big thanks to Mozilla, Khan Academy, and Rachel Andrew for the excellent articles, code examples, and slide deck!
 
