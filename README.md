@@ -21,6 +21,10 @@ Source code for the simple html/css examples live in the `src/` directory of thi
 * [Slide Deck](https://www.slideshare.net/rachelandrew/flexbox-and-grid-layout)
 * [Can I Use?](https://caniuse.com/#feat=css-grid)
 
+### JavaScript
+
+* [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
+
 ### Browsers console example sites
 
 * [Global Citizen](https://www.globalcitizen.org/en/search/?q=education)
@@ -28,4 +32,5 @@ Source code for the simple html/css examples live in the `src/` directory of thi
 
 ## Acknowledgements
 
-Big thanks to Mozzila and Rachel Andrew for the excellent articles, code examples, and slide deck!
+Big thanks to Mozzila, Khan Academy, and Rachel Andrew for the excellent articles, code examples, and slide deck!
+
