@@ -19,16 +19,15 @@ Source code for the simple html/css examples live in the `src/` directory of thi
 * [Side By Side Code Example](https://codepen.io/rachelandrew/pen/YqqdXL)
 * [Should I Use Grid or Flexbox?](https://rachelandrew.co.uk/archives/2016/03/30/should-i-use-grid-or-flexbox/)
 * [Slide Deck](https://www.slideshare.net/rachelandrew/flexbox-and-grid-layout)
-* [Can I Use?](https://caniuse.com/#feat=css-grid)
 
 ### JavaScript
 
 * [Intro to JS: Drawing & Animation](https://www.khanacademy.org/computing/computer-programming/programming)
 
-### Browsers console example sites
+### Other resources
 
-* [Global Citizen](https://www.globalcitizen.org/en/search/?q=education)
 * [Animate.css](https://daneden.github.io/animate.css/)
+* [Can I Use?](https://caniuse.com/#feat=css-grid)
 
 ## Acknowledgements
 
