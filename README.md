@@ -1,4 +1,4 @@
-# 2018 Products Of Design - Web Development
+# 2019 Products Of Design - Web Development
 
 Resources for a presentation given to the Products of Design Program at NYC's School of Visual Arts.
 
